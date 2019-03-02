@@ -17,4 +17,4 @@ The guidelines for deploying the model can be found here...
 
 https://gitlab.com/shantanuo/dlnotebooks/blob/master/sagemaker/01-Image-classification-transfer-learning-cifar10.ipynb
 
-
+Pull requests will be rewarded !
