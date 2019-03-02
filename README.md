@@ -12,3 +12,9 @@ git clone https://github.com/shantanuo/Word-Level-Eng-Mar-NMT.git
 Run the notebook.
 
 How to deploy it using Amazon sagemaker?
+
+The guidelines for deploying the model can be found here...
+
+https://gitlab.com/shantanuo/dlnotebooks/blob/master/sagemaker/01-Image-classification-transfer-learning-cifar10.ipynb
+
+
